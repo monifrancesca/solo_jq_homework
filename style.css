@@ -1,0 +1,45 @@
+
+form {
+	background-color: white;
+	width: 600px;
+	float: left;
+	clear: both;
+}
+
+form input {
+	margin: 5px;
+	float: left;
+	clear: both;
+}
+
+.submit {
+	margin-bottom: 20px;
+}
+
+.employee {
+	width: 600px;
+}
+
+.green {
+ background-color: green;
+}
+
+.red {
+	background-color: #666699;
+}
+
+.blue {
+	background-color: #b6ddee;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.purple {
+	background-color: #7a8000;
+}
+
+.orange {
+	background-color: orange;
+}
